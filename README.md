@@ -1,3 +1,69 @@
+## rssfeed Modülü Nedir ?
+
+rssfeed modülü yii ile yazılmış kouosl projesine entegre bir modüldür.
+
+## rssfeed Modülü Neler Yapar ?
+
+Aşağıdaki adreste;
+
+
+
+- http://portal.kouosl/rssfeed/rssfeed/index
+
+
+
+RSS Feed kayıtlarını listeler.
+
+![rssfeed Screenshot](https://image.ibb.co/exd06T/ndex.png)
+
+------------
+
+Aşağıdaki adreste;
+
+
+- http://portal.kouosl/rssfeed/rssfeed/create
+
+
+
+RSS Feed kaydı ekler.
+
+![rssfeed Screenshot](https://image.ibb.co/nJFDRT/nsert.png)
+
+------------
+
+Aşağıdaki adreste;
+
+
+
+- http://portal.kouosl/rssfeed/rssfeed/view?id=1
+
+
+
+RSS Feed id'si yazılan kayıtların detaylarını görüntüler.
+
+![rssfeed Screenshot](https://image.ibb.co/m6Q2Lo/Detail.png)
+
+------------
+
+Aşağıdaki adreste;
+
+
+
+- http://portal.kouosl/rssfeed/rssfeed/update?id=1
+
+
+
+Rss Feed id'si yazılan kayıtların güncelleme ve silme işlemlerini yapar.
+
+![rssfeed Screenshot](https://image.ibb.co/dEMyt8/update.png)
+
+
+rssfeed modülünün çalışma videosuna aşağıdaki adresten erişebilirsiniz.
+
+
+https://youtu.be/kCEbnKUuXJE
+
+
 ## rssfeed Modülü Nasıl Kurulur ?
 
 Komut satırında cd komutu ile portal/vendor/kouosl dizinine girilir.
@@ -70,76 +136,6 @@ Son olarak Modüle aşağıdaki adresten erişebilirsiniz.
 
 
 - http://portal.kouosl/rssfeed/rssfeed
-
-
-
-## rssfeed Modülü Nedir ?
-
-rssfeed modülü yii ile yazılmış kouosl projesine entegre bir modüldür.
-
-## rssfeed Modülü Neler Yapar ?
-
-Aşağıdaki adreste;
-
-
-
-- http://portal.kouosl/rssfeed/rssfeed/index
-
-
-
-RSS Feed kayıtlarını listeler.
-
-![rssfeed Screenshot](https://image.ibb.co/exd06T/ndex.png)
-
-------------
-
-Aşağıdaki adreste;
-
-
-- http://portal.kouosl/rssfeed/rssfeed/create
-
-
-
-RSS Feed kaydı ekler.
-
-![rssfeed Screenshot](https://image.ibb.co/nJFDRT/nsert.png)
-
-------------
-
-Aşağıdaki adreste;
-
-
-
-- http://portal.kouosl/rssfeed/rssfeed/view?id=1
-
-
-
-RSS Feed id'si yazılan kayıtların detaylarını görüntüler.
-
-![rssfeed Screenshot](https://image.ibb.co/m6Q2Lo/Detail.png)
-
-------------
-
-Aşağıdaki adreste;
-
-
-
-- http://portal.kouosl/rssfeed/rssfeed/update?id=1
-
-
-
-Rss Feed id'si yazılan kayıtların güncelleme ve silme işlemlerini yapar.
-
-![rssfeed Screenshot](https://image.ibb.co/dEMyt8/update.png)
-
-
-rssfeed modülünün çalışma videosuna aşağıdaki adresten erişebilirsiniz.
-
-
-http://www.youtube.com/
-
-
-
 
 
 ## Proje Dahilinde Yapılanlar Neler ?
