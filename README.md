@@ -66,17 +66,7 @@ https://youtu.be/kCEbnKUuXJE
 
 ## rssfeed Modülü Nasıl Kurulur ?
 
-Komut satırında cd komutu ile portal/vendor/kouosl dizinine girilir.
-
-Daha Sonra aşağıdaki kod çalıştırılır.
-
-```bash
-git clone https://github.com/orhunsahin/rssfeed.git rssfeed
-```
-
-Bu kodla birlikte rssfeed klasörünün için RSS Feed modülü için gerekli dosyalar github'dan çekilecektir.
-
-Daha sonra portal dizinin içinde aşağıda verilen dizinlerdeki dosyalarda modules arrayine en alt satırdaki kod eklenecektir.
+Aşağıda verilen dizinlerdeki "main.php" dosyalarında modules arrayine en alt satırdaki kod eklenecektir.
 
 ```bash
 
@@ -135,7 +125,7 @@ Son olarak Modüle aşağıdaki adresten erişebilirsiniz.
 
 
 
-- http://portal.kouosl/rssfeed/rssfeed
+- http://portal.kouosl/rssfeed/
 
 
 ## Proje Dahilinde Yapılanlar Neler ?
