@@ -1,6 +1,6 @@
 <?php
 /* @var $this yii\web\View */
-$this->title = 'WYP Sample Application';
+$this->title = 'Yii RSS Feed Modülü';
 ?>
 <div class="site-index">
 
